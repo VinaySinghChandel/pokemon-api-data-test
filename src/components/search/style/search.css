@@ -1,0 +1,19 @@
+.api-search-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.api-search-header .api-search-box {
+    padding: 12px;
+    border: 0;
+    max-width: 300px;
+    width: 500px;
+    border-radius: 25px;
+    font-size: 15px;
+}
+.api-search-box:hover {
+    background-color:bisque;
+    color:darkorchid;
+}
